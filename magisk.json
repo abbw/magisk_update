@@ -2,15 +2,15 @@
   "app": {
     "version": "7.5.1",
     "versionCode": "267",
-    "link": "https://note.youdao.com/yws/api/personal/file/WEBec1b64553bd3518278ad886fb23431a1?method=download&shareKey=96e133cb22854da8b03345a729f95dbe"
+    "link": "https://mypc.ml/magisk.apk"
   },
   "magisk": {
-    "version": "20.3",
-    "versionCode": "20300",
-    "link": "https://note.youdao.com/yws/api/personal/file/WEBb7c07ef4e9e6ed11e54b732a7baaffd6?method=download&shareKey=b40dabc1b3b4ae4c07ee93d3c69170f9",
-    "md5": "959e46971c2eb500b91a053b2f1c1a8c"
+    "version": "20.4",
+    "versionCode": "20400",
+    "link": "https://mypc.ml/magisk",
+    "md5": "9503fc692e03d60cb8897ff2753c193f"
   },
   "uninstaller": {
-    "link": "https://note.youdao.com/yws/api/personal/file/WEB7d7dc5fb270bb24d53ad0da7fe5d93a9?method=download&shareKey=989903f054e846258f53a008b3e60a4e"
+    "link": "https://mypc.ml/uninstall.zip"
   }
 }
